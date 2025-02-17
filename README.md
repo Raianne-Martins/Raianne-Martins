@@ -7,7 +7,7 @@ I'm using this repository to develop my skills and connect with people to collab
 
  ## 🌱 I’m currently learning ...
  
-- to improving my backend skills with Python and SQLite;
+- to improve my backend skills with Python and SQLite;
 - mobile for my college project.
 
 ## 📫 You can reach me at: 
