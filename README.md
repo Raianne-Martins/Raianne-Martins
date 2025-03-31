@@ -1,50 +1,43 @@
 `` EN ``
+### Hi there 👋, I'm Raianne 
+#### Systems Analysis and Development at PUC-Minas
 
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/f3a02fb6-25eb-4aa2-ac5b-81fec6d04d68)
 
-I'm Raianne. I'm a student of Systems Analysis and Development at PUC-Minas. 
-I'm using this repository to develop my skills and connect with people to collaborate on projects. 
 
- ## 🌱 I’m currently learning ...
- 
-- to improve my backend skills with Python and SQLite;
-- mobile for my college project.
+I'm passionate about learning. Currentily using GitHub to develop my skills and connect with people to collaborate on projects.
 
-## 📫 You can reach me at: 
+Skills: Python | JavaScript | CSS | Microsoft Office |  MYSQL
 
-[![GitHub](https://img.shields.io/badge/GitHub-800080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raianne-Martins)
-<a href="mailto:raianne90martins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+- 🔭 I’m currently working on Cosmepedia Mobile  
+- 🌱 I’m currently learning Python and SQL 
+- 👯 I’m looking to collaborate on SQL and Environment Projects 
+- 😄 Pronouns: she/her 
+-⚡ Fun fact: I did a 3 months cultural intership in Bialystok, PL
+- 📫 You can reach me at: 
 
-## ⚡ Fun fact:
 
-I did a 3 months cultural internship in Bialystok, Poland 🥟
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raianne-Martins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devraianne/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](raianne90martins@gmail.com)  
 
-## 
 
 `` PT ``
 
-## Olá 👋
+## Olá 👋 Eu sou a Raianne
+#### Análise e Desenvolvimento de Sistemas na PUC-Minas
 
-Eu sou a Raianne, sou estudante de Analise e Desenvolvimento de Sistemas na PUC-Minas. 
-Estou usando este repositório para desenvolver minhas habilidades e me conectar com pessoas para colaborar em projetos. 
+Sou apaixonada por aprender. Atualmente, estou usando o GitHub para desenvolver minhas habilidades e me conectar com pessoas para colaborar em projetos.
 
- ## 🌱 Estou aprendendo ...
- 
-- para aprimorar minhas habilidades de backend em Python e SQLite;
-- mobile para este eixo da faculdade.
+Habilidades: Python | JavaScript | CSS | Microsoft Office | MySQL
 
-## 📫 Você pode me contactar em: 
+- 🔭 Estou trabalhando no Cosmepedia Mobile
+- 🌱 Estou aprendendo Python e SQL
+- 👯 Estou procurando colaborar em projetos de SQL e meio ambiente
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: fiz um estágio cultural de 3 meses em Bialystok, PL
+- 📫 Você pode me encontrar em:
 
-[![GitHub](https://img.shields.io/badge/GitHub-800080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raianne-Martins)
-<a href="mailto:raianne90martins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raianne-Martins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devraianne/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](raianne90martins@gmail.com)  
 
-## ⚡ Curiosidade sobre mim:
-
-Fiz um intercambio cultural de 3 meses em Bialystok, Polônia 🥟
-
-## 
 
 ## Abilities \ Habilidades
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -60,5 +53,10 @@ Fiz um intercambio cultural de 3 meses em Bialystok, Polônia 🥟
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raianne-Martins&theme=omni&bg_color=000&border_color=E44C30&show_icons=true&icon_color=ffbf00&title_color=E94D5F&text_color=FFF&hide_title=true&hide_stars=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raianne-Martins)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raianne-Martins&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Raianne-Martins)  
+
 
