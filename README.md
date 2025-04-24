@@ -13,7 +13,7 @@ Skills: Python | JavaScript | CSS | Microsoft Office |  MYSQL
 - 🌱 I’m currently learning Python and SQL 
 - 👯 I’m looking to collaborate on SQL and Environment Projects 
 - 😄 Pronouns: she/her 
--⚡ Fun fact: I did a 3 months cultural intership in Bialystok, PL
+- ⚡ Fun fact: I did a 3 months cultural intership in Bialystok, PL
 - 📫 You can reach me at: 
 
 
